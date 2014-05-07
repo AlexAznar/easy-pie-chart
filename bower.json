@@ -9,7 +9,7 @@
     ".editorconfig"
   ],
   "dependencies": {
-
+    "angular": "1.2.15"
   },
   "devDependencies": {
     "angular": "~1.2.9",
